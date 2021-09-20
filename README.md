@@ -1,5 +1,5 @@
 # DPChordDHTAlgoritmDemonstration
- A demonstration of an in-memory node project_package.network using Chord algotritm with a Distributed Hash Table 
+ A demonstration of an in-memory node project_package.network using Chord algorithm with a Distributed Hash Table 
  Made for Distributed Processess university course
  
     > made with IntelliJ as Console Application, using JDK 16

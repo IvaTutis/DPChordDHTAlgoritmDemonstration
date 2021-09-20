@@ -8,7 +8,8 @@
 To run the application, run the main() function inside src/project_package/ConsoleApplicationRunner.java
 The main function can be run in a few different modes, depending on the # of input arguments.
 
-Instructions in Croatian: 
+> Instructions in Croatian: 
+
 pokretanje1: args.length = 0
 
     -> unutar npr IntelliJ-a, stvara se lokalna mreža čvorova

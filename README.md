@@ -2,11 +2,11 @@
  A demonstration of an in-memory node project_package.network using Chord algotritm with a Distributed Hash Table 
  Made for Distributed Processess university course
  
- > made with IntelliJ as Console Application, using JDK 16
- > can also be ran inside the terminal 
+    > made with IntelliJ as Console Application, using JDK 16
+    > can also be ran inside the terminal 
 
-To run the application, run the main() function inside src/project_package/ConsoleApplicationRunner.java
-The main function can be run in a few different modes, depending on the # of input arguments.
+> To run the application, run the main() function inside src/project_package/ConsoleApplicationRunner.java
+> The main function can be run in a few different modes, depending on the # of input arguments.
 
 > Instructions in Croatian: 
 
